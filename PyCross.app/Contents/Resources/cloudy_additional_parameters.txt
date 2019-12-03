@@ -1,0 +1,28 @@
+set_age - age 30
+set_abund - ?
+set_BB - ?
+set_C3D_comment - ?
+set_comment - ?
+set_cste_density - ?
+set_distacne - ?
+set_dlaw - ?
+set_emis_tab - OK
+set_fudge - ?
+set_grains - ?
+set_heat_cooling - ?
+set_iterate - ?
+set_line_file - ?
+set_other - used to set other parameters like age. Conisder putting these parameters into a single file fand iterate through to set the the variables
+set_radius - OK
+set_save_str - ?
+set_sphere - ?
+set_star - ?
+set_stop - ?
+set_theta_phi - ?
+calling - ?
+cloudy_version - ?
+line_flie_absolute - ?
+log_ - ?
+model_name - Ok
+save_list - ?
+save_str - ?

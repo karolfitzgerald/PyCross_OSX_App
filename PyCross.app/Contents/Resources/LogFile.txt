@@ -1,0 +1,4 @@
+Welcome to PyCROSS, this application allows for the 3D pseudo rendering of SHAPE objects in Cloudy.
+Take your time to become familiar with the layout
+===============================================================================
+Reloading Cloudy Path:/Users/kfitzgerald/c13.05/source/sys_gcc/cloudy.exe
