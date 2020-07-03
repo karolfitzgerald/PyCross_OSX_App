@@ -1,2 +1,2 @@
-# PyCross_OSX_App
-Working version of PyCross bundled app for OSX
+# PyCross Version 26C for Cloudy 17.02 working on OSX and Windows 10
+This version of PyCross works on OSX  & Windows 10 for Cloudy 17.02. Please ensure that you install Cloudy 17.02 (https://www.nublado.org/wiki/StepByStep). If you have Cloudy 13 and want to install Cloudy 17.02 then follow the contents of the document "Installing C17.02 for PyCross.pdf" (MAC only) located in the PyCross_V26C_17-02_Sample_Data directory.
